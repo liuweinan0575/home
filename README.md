@@ -9,7 +9,7 @@ My react study project, which aims to be the homepage of small company, takes ad
 6. babel, es6 & 7, 
 7. react-redux-loading-bar, 
 8. [React-Tutorial](https://github.com/liuweinan0575/React-Tutorial)
-8. and so on.
+9. and so on.
 
 The project consists of four parts:
 
